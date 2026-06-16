@@ -1,6 +1,10 @@
 # 📊 Retail Customer Churn Prediction
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://retail-customer-churn-prediction-model.onrender.com)
+Machine Learning-based customer churn prediction application with Streamlit and Docker deployment.
+
+## Live Demo
+
+🚀 https://retail-customer-churn-prediction-model.onrender.com
 
 ## Project Overview
 
