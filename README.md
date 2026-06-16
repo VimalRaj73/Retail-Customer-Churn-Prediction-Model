@@ -1,5 +1,7 @@
 # 📊 Retail Customer Churn Prediction
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://retail-customer-churn-prediction-model.onrender.com)
+
 ## Project Overview
 
 Customer churn is one of the most important business challenges in the retail industry. Retaining existing customers is often more cost-effective than acquiring new ones.
