@@ -2,9 +2,9 @@
 
 Machine Learning-based customer churn prediction application with Streamlit and Docker deployment.
 
-## Live Demo
+## Live Demo 🚀
 
-🚀 https://retail-customer-churn-prediction-model.onrender.com
+https://retail-customer-churn-prediction-model.onrender.com
 
 ## Project Overview
 
