@@ -155,6 +155,8 @@ The trained model was integrated into a Streamlit application.
 ```text
 Retail-Customer-Churn-Prediction/
 │
+├── Retail Customer Churn Prediction.ipynb
+├── retail_customer_churn_100k (1).csv
 ├── churn_prediction_app.py
 ├── churn_prediction.pkl
 ├── requirements.txt
@@ -166,11 +168,8 @@ Retail-Customer-Churn-Prediction/
 │   └── styles
 │
 ├── pages/
-│   ├── about.py
-│   └── feedback.py
-│
-└── notebooks/
-    └── Retail Customer Churn Prediction.ipynb
+    ├── about.py
+    └── feedback.py
 ```
 
 ---
@@ -260,6 +259,6 @@ to access the application.
 
 ## Author
 
-**Vimal**
+**Vimal Raj R**
 
 Data Science | Machine Learning | Predictive Analytics
